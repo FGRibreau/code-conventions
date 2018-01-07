@@ -1,6 +1,6 @@
-# Ouest-France/SIPA code-conventions
+# 💈 Ouest-France/SIPA conventions
 
-## Languages (todo)
+## Languages
 
 - [Java](/java)
 - [PHP](/php)
