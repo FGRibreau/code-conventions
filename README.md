@@ -1,5 +1,7 @@
 # 💈 Ouest-France/SIPA conventions
 
+👋 Welcome to Ouest-France/SIPA documentation of our conventions.
+
 ## Languages
 
 - [Java](/java)
