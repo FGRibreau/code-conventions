@@ -15,8 +15,7 @@
 
 ## How To Contribute
 
-Contribute by submitting a PR (Pull-request) in GitHub.
-Issues are disabled because all discussions must be done arround a PR. 😉
+Contribute by submitting a PR (Pull-request) in GitHub. Issues are disabled, all discussions must be done through a Pull-request 😉.
 
 ## Philosophy
 
